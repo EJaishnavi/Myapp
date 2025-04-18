@@ -1,3 +1,2 @@
 This is new file added to test webhook notification.
-new line This is new file added to test webhook notification.
 added poll scm to check for changes at every 2mins in our repo
